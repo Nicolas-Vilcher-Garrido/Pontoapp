@@ -1,0 +1,22 @@
+[
+  {
+    "id": "b386c74e-11b4-435f-94d8-dd5cc5550da0",
+    "timestamp": "2025-09-03T11:30:00-03:00",
+    "kind": "entrada"
+  },
+  {
+    "id": "2ed6d9a8-ade0-42dd-92ec-43c3dcf028d8",
+    "timestamp": "2025-10-04T15:29:00-03:00",
+    "kind": "entrada"
+  },
+  {
+    "id": "9be686b0-ba3b-4776-b867-7c943814eb99",
+    "timestamp": "2025-09-24T19:29:00-03:00",
+    "kind": "entrada"
+  },
+  {
+    "id": "39c8355b-d011-4e4f-8933-542f1267acf1",
+    "timestamp": "2025-09-30T18:46:00-03:00",
+    "kind": "entrada"
+  }
+]
